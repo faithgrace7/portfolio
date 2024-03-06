@@ -37,7 +37,5 @@
     </p>
     <img src="https://scontent.fcgy3-1.fna.fbcdn.net/v/t1.15752-9/423455042_761342962322953_4493000921438100853_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeEMwphhlsX3BHeKrYDlEA2rmZguf8uJP1KZmC5_y4k_UqgxtLH4W7hxyMliwJ3t8pwxJps7TGl4McZiVTOi9mhr&_nc_ohc=7VOGl57Y9HkAX9qJuYf&_nc_ht=scontent.fcgy3-1.fna&oh=03_AdQqAmHxaagGuPyfCK-VYmMP2g1bl1OhcfP5a35C3g3ZkA&oe=660E9EF5"><br><br>     
  
-
-</style>  
 </body>
 </html>
